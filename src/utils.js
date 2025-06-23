@@ -80,3 +80,4 @@ export const analyze = (text) => {
     return "I haven’t learned how to respond to that yet 🙏. Try asking about Asraf’s skills, certifications, or projects.";
   }
 };
+
